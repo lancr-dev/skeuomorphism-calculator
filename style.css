@@ -165,6 +165,10 @@ body.dark-mode .calculator__key--operator {
   user-select: none;
 }
 
+.calculator__key:hover {
+  background-color: #7a7a7a;
+}
+
 .calculator__key:active {
   transform: translateY(0.1rem);
   box-shadow:
